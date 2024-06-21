@@ -1,4 +1,4 @@
-// 1.20.1	2024-06-20T21:42:28.3062353	Recipes
+// 1.20.1	2024-06-21T03:16:23.1011427	Recipes
 8e6adf5e2015be5f45bf86225f8e78ac6cf8d6e3 data/tutorialmod/advancements/recipes/misc/metal_detector.json
 66754ab9f4e80588174d04886a240af6d85f3cb8 data/tutorialmod/advancements/recipes/misc/raw_sapphire.json
 42a10e3d94629ca04d4fb385524885382d12f8d0 data/tutorialmod/advancements/recipes/misc/raw_sapphire_block.json
@@ -34,6 +34,7 @@ e9b68f51d729e6fc2f0db781c502a54de6e9262d data/tutorialmod/advancements/recipes/m
 13e3e0665101e43af8db6297eb88930a023e08eb data/tutorialmod/advancements/recipes/misc/sapphire_trapdoor.json
 3cc354ec6b4ebfd49fa6003a5c71def36b0cf26b data/tutorialmod/advancements/recipes/misc/sapphire_wall.json
 55770b0426eef8e823e6a544e8752e99e467b1c2 data/tutorialmod/advancements/recipes/misc/sound_block.json
+d4fc60270080c506539e21ea1abbdcc06ff3946a data/tutorialmod/advancements/recipes/misc/strawberry_seeds.json
 3cdaae5983d08fd6d7121937d3f9a6aaecbf3152 data/tutorialmod/recipes/metal_detector.json
 e728a71635be005aa21356bfda70ab4092c288eb data/tutorialmod/recipes/raw_sapphire.json
 1fb342ae684207646943a6b647fc7c8082fa3b12 data/tutorialmod/recipes/raw_sapphire_block.json
@@ -69,3 +70,4 @@ e132dabb45de8bc15687d0adde812cb89900f19e data/tutorialmod/recipes/sapphire_sword
 ba19e709a62c640472ece41a9888c1446652d14d data/tutorialmod/recipes/sapphire_trapdoor.json
 3af7986c38d467cf041f72d10f227e06eab37871 data/tutorialmod/recipes/sapphire_wall.json
 24268dbffddf922903849f5dc4a88f8bacdc2bba data/tutorialmod/recipes/sound_block.json
+7e0c2fc509f03f576b9bf08c4de016d60c0a1c18 data/tutorialmod/recipes/strawberry_seeds.json

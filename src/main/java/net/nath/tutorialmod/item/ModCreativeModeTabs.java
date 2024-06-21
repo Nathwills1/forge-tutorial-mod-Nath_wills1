@@ -24,6 +24,7 @@ public class ModCreativeModeTabs {
                         p0utput.accept(Moditems.METAL_DETECTOR.get());
 
                         p0utput.accept(Moditems.STRAWBERRY.get());
+                        p0utput.accept(Moditems.STRAWBERRY_SEEDS.get());
 
                         p0utput.accept(Moditems.SAPPHIRE_STAFF.get());
 
@@ -61,6 +62,7 @@ public class ModCreativeModeTabs {
                         p0utput.accept(Moditems.SAPPHIRE_CHESTPLATE.get());
                         p0utput.accept(Moditems.SAPPHIRE_LEGGINGS.get());
                         p0utput.accept(Moditems.SAPPHIRE_BOOTS.get());
+
 
                     })
                     .build());

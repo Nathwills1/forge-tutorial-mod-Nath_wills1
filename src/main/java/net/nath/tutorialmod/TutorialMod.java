@@ -20,6 +20,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.nath.tutorialmod.block.ModBlocks;
 import net.nath.tutorialmod.item.ModCreativeModeTabs;
 import net.nath.tutorialmod.item.Moditems;
+import net.nath.tutorialmod.loot.ModLootModifiers;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -38,6 +39,8 @@ public class TutorialMod
 
         Moditems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);

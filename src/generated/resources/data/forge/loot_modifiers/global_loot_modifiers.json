@@ -1,0 +1,22 @@
+{
+  "entries": [
+    "tutorialmod:pine_cone_from_grass",
+    "tutorialmod:pine_cone_from_birch_leaves",
+    "tutorialmod:metal_detector_from_jungle_temples",
+    "tutorialmod:pine_cone_from_cherry_leaves",
+    "tutorialmod:strawberry_from_desert_pyramid",
+    "tutorialmod:pine_cone_from_jungle_leaves",
+    "tutorialmod:pine_cone_from_oak_leaves",
+    "tutorialmod:pine_cone_from_creeper",
+    "tutorialmod:pine_cone_from_desert_pyramid",
+    "tutorialmod:metal_detector_from_suspicious_sand",
+    "tutorialmod:pine_cone_from_mangrove_leaves",
+    "tutorialmod:pine_cone_from_dark_oak_leaves",
+    "tutorialmod:pine_cone_from_flowering_azalea_leaves",
+    "tutorialmod:pine_cone_from_acacia_leaves",
+    "tutorialmod:pine_cone_from_azalea_leaves",
+    "tutorialmod:strawberry_from_jungle_temples",
+    "tutorialmod:pine_cone_from_spruce_leaves"
+  ],
+  "replace": false
+}

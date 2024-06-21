@@ -5,6 +5,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 import net.nath.tutorialmod.TutorialMod;
+import net.nath.tutorialmod.block.ModBlocks;
 import net.nath.tutorialmod.item.custom.FuleItem;
 import net.nath.tutorialmod.item.custom.MetalDetectorItem;
 import net.nath.tutorialmod.item.custom.ModArmorItem;
@@ -51,6 +52,9 @@ public class Moditems {
             () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.LEGGINGS, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_BOOTS = Items.register("sapphire_boots",
             () -> new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.BOOTS, new Item.Properties()));
+
+    public static final RegistryObject<Item> STRAWBERRY_SEEDS =  Items.register("strawberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.STRAWBERRY_CROP.get(), new Item.Properties()));
 
 
 
